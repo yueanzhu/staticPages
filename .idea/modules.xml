@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/staticPages.iml" filepath="$PROJECT_DIR$/staticPages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/freeapi.iml" filepath="$PROJECT_DIR$/freeapi.iml" />
     </modules>
   </component>
 </project>
