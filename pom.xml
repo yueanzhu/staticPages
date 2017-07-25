@@ -19,8 +19,13 @@
       <artifactId>MDTool</artifactId>
       <version>1.1.2</version>
     </dependency>
+    <dependency>
+      <groupId>org.springframework</groupId>
+      <artifactId>spring-beans</artifactId>
+      <version>4.3.1.RELEASE</version>
+    </dependency>
   </dependencies>
   <build>
-    <finalName>demo</finalName>
+    <finalName>freeapi</finalName>
   </build>
 </project>
