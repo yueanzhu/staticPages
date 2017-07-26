@@ -22,13 +22,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="freeapi" />
-        <module name="staticPages" />
+        <module name="freeApi" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="freeapi" target="1.5" />
-      <module name="staticPages" target="1.5" />
+    <bytecodeTargetLevel target="1.6">
+      <module name="freeApi" target="1.6" />
     </bytecodeTargetLevel>
   </component>
 </project>

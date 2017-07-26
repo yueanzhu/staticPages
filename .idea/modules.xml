@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/freeapi.iml" filepath="$PROJECT_DIR$/freeapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/freeApi.iml" filepath="$PROJECT_DIR$/freeApi.iml" />
     </modules>
   </component>
 </project>

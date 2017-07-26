@@ -1,8 +1,8 @@
 <component name="ArtifactManager">
-  <artifact type="war" name="freeapi:war">
+  <artifact type="war" name="freeApi:war">
     <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="freeapi.war">
-      <element id="artifact" artifact-name="freeapi:war exploded" />
+    <root id="archive" name="academicnetwork.war">
+      <element id="artifact" artifact-name="freeApi:war exploded" />
     </root>
   </artifact>
 </component>
